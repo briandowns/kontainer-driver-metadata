@@ -629,7 +629,7 @@ releases:
         version: v3.24.1-build2022101102
       rke2-cilium:
         repo: rancher-rke2-charts
-        version: 1.12.102
+        version: 1.12.301
     featureVersions: *featureVersions-v1
   - version: v1.22.16+rke2r1
     minChannelServerVersion: v2.6.3-alpha1
