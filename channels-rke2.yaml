@@ -2421,6 +2421,9 @@ releases:
       rke2-ingress-nginx:
         repo: rancher-rke2-charts
         version: 4.10.502
+      rancher-vsphere-cpi:
+        repo: rancher-rke2-charts
+        version: 1.9.100
     featureVersions: *featureVersions-v1
   - version: v1.30.1+rke2r1
     minChannelServerVersion: v2.9.0-alpha1
