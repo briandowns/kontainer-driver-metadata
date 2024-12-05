@@ -2451,6 +2451,9 @@ releases:
       harvester-cloud-provider:
         repo: rancher-rke2-charts
         version: 0.2.400
+      rancher-vsphere-csi:
+        repo: rancher-rke2-charts
+        version: 3.3.1-rancher700
     featureVersions: *featureVersions-v1
   - version: v1.30.3+rke2r1
     minChannelServerVersion: v2.9.0-alpha1
